@@ -1,0 +1,6 @@
+@Kahininden.WebAPI_HostAddress = http://localhost:5100
+
+GET {{Kahininden.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
